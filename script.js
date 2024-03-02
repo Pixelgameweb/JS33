@@ -38,6 +38,6 @@ console.log(Javajson)
 // 4 задание
 
 // let json4 = '["user1","user2","user3","user4","user5"]'; 
-// let user = JSON.parse(json);
+// let user = JSON.parse(json4);
 // document.write('<ul>');
 // user.forEach(user => {document.write(`<li>${user}</li>`)});
