@@ -7,9 +7,9 @@ console.log(json);
 
 // 2 задание
 let json1 = '["user1","user2","user3","user4","user5"]'; 
-let JSjson = JSON.parse(json);
-JSjson.push("user6");
-console.log(JSjson)
+let Javajson = JSON.parse(json1);
+Javajson.push("user6");
+console.log(Javajson)
 
 //3 задание
 let json3 = `[     
